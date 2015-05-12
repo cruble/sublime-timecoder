@@ -26,6 +26,7 @@ Next steps:
 
 
 I drew from three resources to make this: 
+
 [How to Create a Sublime Text 2 Plugin, by Will Bond](http://code.tutsplus.com/tutorials/how-to-create-a-sublime-text-2-plugin--net-22685) 
 
 [Creating Sublime Text 3 Plugins – Part 1, by Sam Mello](https://clarknikdelpowell.com/blog/creating-sublime-text-3-plugins-part-1/) 
